@@ -10,8 +10,13 @@ http://web.njit.edu/~fi53/week9/week9.php
 
 Screen Recording
 
-[https://drive.google.com/file/d/1SapoFDSc1aLF6oVOkvdBcboSY5jE5flM/view?usp=sharing
-Assignment Files](https://drive.google.com/file/d/1SapoFDSc1aLF6oVOkvdBcboSY5jE5flM/view?usp=sharing)
+https://drive.google.com/file/d/1SapoFDSc1aLF6oVOkvdBcboSY5jE5flM/view?usp=sharing
+
+GitHub Link: 
+
+https://github.com/fakeha-18/IT202_week9
+
+Assignment Files
 
 * week9.php – PHP and SQL code
 * Student, Transcript, and JOIN table screenshots
